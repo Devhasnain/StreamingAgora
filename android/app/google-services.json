@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647318032929",
+    "project_id": "apps-cba2e",
+    "storage_bucket": "apps-cba2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647318032929:android:e1ff2767b08695f46e8960",
+        "android_client_info": {
+          "package_name": "com.messengernative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf6RXLF4IAMZVWHqfkrNXtP_wDar8tsSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
